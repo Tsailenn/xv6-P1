@@ -1,7 +1,5 @@
 # Modified Code
 
-## xv6 Makefile
-
 ### System Call Tracing
 
 #### Makefile
